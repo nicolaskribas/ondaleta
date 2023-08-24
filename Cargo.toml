@@ -1,0 +1,11 @@
+[package]
+name = "ondaleta"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+description = """
+Online 1-D discrete wavelet transform (DWT)
+"""
+repository = "https://github.com/nicolaskribas/ondaleta"
+
+[dependencies]
